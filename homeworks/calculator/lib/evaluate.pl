@@ -19,7 +19,7 @@ no warnings 'experimental';
 
 sub evaluate {
 	my $rpn = shift;
-
+die "QQQ";
 	# ...
 
 	return 0;
